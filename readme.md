@@ -1,12 +1,9 @@
 
-<h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Ashish</a>! 
-</h2>
 
+# Hi, I'm Ashsih! 👋
 <h4 align='center'>
   Data Science | Machine Learning | Image Processing | Natural Language Processing  Competitive Programmer 
 </h4>
-
 
 <p align='center'>
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
