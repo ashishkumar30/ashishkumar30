@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Ashsih! 👋
+# Hi, I'm Ashish 👋
 <h4 align='center'>
   Data Science | Machine Learning | Image Processing | Natural Language Processing  Competitive Programmer 
 </h4>
