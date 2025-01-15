@@ -32,9 +32,9 @@
 
 ## 👩  About me:
 <p>
-Hi, I am <b> Ashish, Software Developer & Data Scientist </b>.
+    Hi, I am <b>Ashish</b>, a <b>Software Developer</b> and <b>Python Expert</b>.
 
 Graduated from the University Institute of Engineering and Technology-Main Campus, Kurukshetra University in 2018. </b><br>
-I have engaged with various fintech entities, demonstrating prowess in backend product development and intricate data science, employing languages such as Java, Python, and C++. Proficient in Plotly dash, R, Scala, and diverse Data Analytics tools. Orchestrated 7 autonomous major Data Science backend initiatives. Adept in MLOps and Microservices, with a commendable Competitive Programming acumen. Secured the SDE-2 role at Tower Research Capital in 2021 and have triumphed in interviews with Accenture, Tech Mahindra, and Deloitte. Reach out for sagacious guidance, educational resources, or intricate project collaboration for FAANG preparation. Your inquiries will receive the utmost meticulous and erudite attention.
+I have engaged with various fintech entities, demonstrating prowess in Python backend product development, and diverse Data Analytics tools. Orchestrated 7 autonomous major Data backend initiatives. Adept in Microservices, with a commendable Competitive Programming acumen. Secured the SDE-2 role at Tower Research Capital in 2021 and have triumphed in interviews with Accenture, Tech Mahindra, and Deloitte. Reach out for sagacious guidance, educational resources, or intricate project collaboration for FAANG preparation. Your inquiries will receive the utmost meticulous and erudite attention.
 </p>
 
