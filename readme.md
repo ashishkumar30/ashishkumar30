@@ -2,7 +2,7 @@
 
 # Hi, I'm Ashish 👋
 <h4 align='center'>
-  Data Science | Machine Learning | Image Processing | Natural Language Processing  Competitive Programmer 
+  Python Expert | Software Developer | Competitive Programmer 
 </h4>
 
 <p align='center'>
