@@ -30,7 +30,7 @@
     </p>
 
 
-## 👩  About me:
+## About me
 <p>
 Hi, I am <b> Ashish, Software Developer & Data Scientist </b>.
 
