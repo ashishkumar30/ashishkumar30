@@ -12,12 +12,6 @@
   <a href="https://in.linkedin.com/in/ashishkumar30/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ashishkumar_30/">
-    <img src="https://img.shields.io/badge/instagram-FF00FF.svg?&style=flat&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/ashishkumar_30">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
 </p>
 
 
